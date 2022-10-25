@@ -1,0 +1,17 @@
+/* This is it and it is being used by index.html */
+
+h1 {
+    color: #f00;
+} 
+p {
+    color: blueviolet;
+}
+.photos img {
+    width: 100%
+}
+
+.photos{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-column-gap: 20px; 
+}
