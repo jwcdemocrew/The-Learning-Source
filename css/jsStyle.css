@@ -1,5 +1,4 @@
 /* This is " newStyle " It is being used by index.html */
-
 body {
     margin: 0;
     font-family: 'Source Sans Pro', sans-serif;
@@ -38,15 +37,9 @@ body {
     transform: rotate(6deg);
 
 }
-.input{
-    margin: 10px  40px;
-    padding: 24px 48px;
-    border: 1px solid #283593;
-    width: 50%;
-}
+
 
 .hero{
-
     display: flex;
     justify-content: center;
     background-color:#c5eae9;
